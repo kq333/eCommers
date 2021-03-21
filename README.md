@@ -1,3 +1,10 @@
+# Adres strony projektu: 
+
+https://suspicious-lewin-0fb3f8.netlify.app
+
+
+
+
 # store
 
 ## Project setup
